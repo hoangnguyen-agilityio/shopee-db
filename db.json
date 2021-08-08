@@ -1,327 +1,328 @@
 {
-  "categories": [
+  "benhNhan": [
     {
       "id": 1,
-      "name": "Thời Trang Nam",
-      "slug": "thoi-trang-nam",
-      "imageLink": "https://cf.shopee.vn/file/687f3967b7c2fe6a134a2c11894eea4b_tn"
+      "tthc": {
+        "name": "NGUYỄN TẤN BÌNH",
+        "gt": "Nam",
+        "ns": "1969",
+        "dc": "337/21/11 Nguyễn Phước Nguyên, An Khê, Thanh Khê, Đà Nẵng.",
+        "nnv": "2021-08-01T17:40",
+        "cc": "160cm",
+        "cn": "71",
+        "bmi": "27.73"
+      },
+      "cls": {
+        "shm": [
+          {
+            "time": "26-7-22:30",
+            "ast": 109,
+            "alt": 217,
+            "biltp": 11.4,
+            "biltt": 5.8,
+            "ure": 6.6,
+            "creatinin": 77.8,
+            "na": 133,
+            "k": 3.5,
+            "ca": 1.11,
+            "albumin": "",
+            "protein": "",
+            "pro": 1.16,
+            "ckbm": 2.2,
+            "troponin": 7.7,
+            "mg": "",
+            "ck": "",
+            "crp": "",
+            "dm": 9.3,
+            "ferritin": "",
+            "il6": ""
+          }
+        ],
+        "sinhHieu": [
+          {
+            "mach": "2",
+            "t": "2",
+            "ha": "2",
+            "nt": "22",
+            "spo2": "2",
+            "time": "6-8-21 12:00"
+          },
+          {
+            "mach": "100",
+            "t": "37",
+            "ha": "120/80",
+            "nt": "Thở máy",
+            "spo2": "94%",
+            "time": "7-8-21 13:12"
+          },
+          {
+            "mach": "5656",
+            "t": "6565",
+            "ha": "65",
+            "nt": "65",
+            "spo2": "65",
+            "time": "8/7/21- 17:08"
+          }
+        ],
+        "biland": [
+          {
+            "dv": "750",
+            "nt": "650",
+            "crrt": "",
+            "bil": "+ 100",
+            "time": "29/7"
+          },
+          {
+            "dv": "2550",
+            "nt": "1980",
+            "crrt": "",
+            "bil": "+500",
+            "time": "30/7"
+          },
+          {
+            "dv": "56",
+            "nt": "56",
+            "crrt": "",
+            "bil": "56",
+            "time": "31/7"
+          },
+          {
+            "dv": "21",
+            "nt": "21",
+            "crrt": "21",
+            "bil": "21",
+            "time": "1-8"
+          }
+        ],
+        "km": [
+          {
+            "ph": "7.04",
+            "pco2": "98",
+            "hco3": "26.5",
+            "po2": "86",
+            "so2": "32",
+            "glu": "32",
+            "lac": "32",
+            "vt": "32",
+            "f": "32",
+            "fio2": "32",
+            "peep": "32",
+            "pf": "32",
+            "time": "28-7 5:00"
+          },
+          {
+            "ph": "21",
+            "pco2": "21",
+            "hco3": "21",
+            "po2": "21",
+            "so2": "2",
+            "glu": "212",
+            "lac": "12",
+            "vt": "12",
+            "f": "12",
+            "fio2": "21",
+            "peep": "21",
+            "pf": "12",
+            "time": "test 2"
+          }
+        ],
+        "dgd": [
+          {
+            "na": "23",
+            "ka": "23",
+            "ca": "23",
+            "time": "8-7-21"
+          },
+          {
+            "na": "23",
+            "ka": "23",
+            "ca": "23",
+            "time": "8-9-21"
+          }
+        ],
+        "hh": [
+          {
+            "wbc": "12",
+            "gran": "12",
+            "lym": "12",
+            "mono": "12",
+            "hgb": "12",
+            "plt": "12",
+            "pt": "23",
+            "inr": "21",
+            "aptt": "21",
+            "fib": "21",
+            "dimer": "21",
+            "anti": "21",
+            "time": "26/7 22:00"
+          },
+          {
+            "wbc": "21",
+            "gran": "21",
+            "lym": "21",
+            "mono": "21",
+            "hgb": "21",
+            "plt": "21",
+            "pt": "21",
+            "inr": "212",
+            "aptt": "12",
+            "fib": "12",
+            "dimer": "12",
+            "anti": "12",
+            "time": "test"
+          },
+          {
+            "wbc": "21",
+            "gran": "21",
+            "lym": "21",
+            "mono": "21",
+            "hgb": "21",
+            "plt": "2",
+            "pt": "21",
+            "inr": "21",
+            "aptt": "21",
+            "fib": "2",
+            "dimer": "212",
+            "anti": "21",
+            "time": "test 3"
+          },
+          {
+            "wbc": "21",
+            "gran": "21",
+            "lym": "2",
+            "mono": "121",
+            "hgb": "2",
+            "plt": "121",
+            "pt": "21",
+            "inr": "2",
+            "aptt": "21",
+            "fib": "21",
+            "dimer": "1",
+            "anti": "2",
+            "time": "test 4"
+          },
+          {
+            "wbc": "23",
+            "gran": "23",
+            "lym": "23",
+            "mono": "23",
+            "hgb": "23",
+            "plt": "23",
+            "pt": "23",
+            "inr": "232",
+            "aptt": "32",
+            "fib": "323",
+            "dimer": "23",
+            "anti": "23",
+            "time": "test 5"
+          }
+        ]
+      },
+      "ls": "<ul><li>28/7</li><li class=\"ql-indent-1\">4h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 90l/p, nhiệt độ 37oC, Spo2 92%, NT 35 l/p, tức ngực, khó thở nhẹ. Bệnh nằm nghiên đầu cao, thở sâu Spo2 97%, NT 27l/p</li><li class=\"ql-indent-1\">8h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 93l/p, nhiệt độ 37oC, Spo2 96%, NT 35 l/p, đỡ tức ngực, còn khó thở</li><li class=\"ql-indent-1\">11h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 85l/p, nhiệt độ 37,3oC, Spo2 95%, NT 30 l/p, đỡ tức ngực, còn khó thở nhẹ</li><li class=\"ql-indent-1\">16h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 93l/p, nhiệt độ 37,5oC, Spo2 95%, NT 28 l/p, đỡ tức ngực, còn khó thở nhẹ</li><li class=\"ql-indent-1\">20h: Bệnh nhân đang HFNC 50/60 không cải thiện, Tỉnh mệt, tiếp xúc được chậm, M 100l/p, T 37oC, Spo2 77%, NT 35 l/p, Tức ngực, khó thở, co kéo cơ hô hấp, Hội chẩn tiến hành đặt NKQ, thở máy xâm nhập, CRRT hỗ trợ thuận lợi</li><li>29/7</li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bệnh nhân duy trì an thần dãn cơ, RASS 4đ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Thở máy VCV, FiO2 70%, F18, Vt 450, PEEP 12, I:E 1:3</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">CRRT hỗ trợ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Tim nhịp đều, phổi thông khí, bụng mềm</span></li><li><span style=\"color: black;\">30/7</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bệnh nhân duy trì an thần dãn cơ, RASS 4đ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Thở máy VCV, FiO2 70%, F18, Vt 450, PEEP 12, I:E 1:3</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">CRRT hỗ trợ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Tim nhịp đều</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Phổi thông khí rõ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bụng mềm</span></li></ul>",
+      "cd": "<ul><li><strong>Bệnh chính</strong>: Viêm phổi nặng do covid 19 </li><li><strong>Bệnh kèm</strong>: Khiếm thị/ Béo phì </li><li><strong>Biến chứng</strong>: Suy hô hấp/ ARDS/ Xuất huyết tiêu hoá</li></ul>",
+      "dt": "<ul><li><span style=\"color: black;\">Duy trì an thần dãn cơ</span></li><li><span style=\"color: black;\">Thở máy PCV, FiO2 80%, F15, Pi 20, PEEP 13 , I:E 1:3</span></li><li><span style=\"color: black;\">Aminosteril 10% x 2 chai/ ngày</span></li><li><span style=\"color: black;\">(6) Valbivi 1g x 2 lọ/ ngày</span></li><li><span style=\"color: black;\">(6) Cepemid 1g x 4 lọ/ngày</span></li><li><span style=\"color: black;\">(8) Galoxcin 750mg x 2 lọ/ngày</span></li><li><span style=\"color: black;\">(9) Dexamethazone 3,33 x 2 ống/ ngày</span></li><li><span style=\"color: black;\">Pantocid duy trì BTĐ</span></li></ul>",
+      "xq": [
+        {
+          "time": "2021-08-07T15:06:55.212Z",
+          "url": "https://firebasestorage.googleapis.com/v0/b/benh-an-online.appspot.com/o/images%2FSEND_1_2021-04-19%20155825.png?alt=media&token=31126cb6-b03f-4631-aa81-1a8f7350603d"
+        },
+        {
+          "time": "2021-12-07T12:30",
+          "url": "https://firebasestorage.googleapis.com/v0/b/benh-an-online.appspot.com/o/images%2F119605953_10207958521076526_4365743355344565355_o.jpg?alt=media&token=15b52c63-7e66-4bbc-ab4a-84dfa0f62467"
+        },
+        {
+          "time": "2020-12-03T12:30",
+          "url": "https://firebasestorage.googleapis.com/v0/b/benh-an-online.appspot.com/o/images%2Fimage(1).png?alt=media&token=0987dbb4-c321-46cf-b352-ddcc805bedf6"
+        }
+      ]
     },
     {
+      "tthc": {
+        "name": "Test bn 2",
+        "gt": "Nữ",
+        "ns": "1978",
+        "dc": "Test địa chỉ",
+        "nnv": "8/7/2021",
+        "cc": "1m61",
+        "cn": "60",
+        "bmi": "22.31"
+      },
       "id": 2,
-      "name": "Điện Thoại & Phụ Kiện",
-      "slug": "dien-thoai-phu-kien",
-      "imageLink": "https://cf.shopee.vn/file/31234a27876fb89cd522d7e3db1ba5ca_tn"
+      "ls": "<p><strong style=\"color: black;\">Lúc vào viện: </strong></p><p><span style=\"color: black;\">20h45 ngày 26-7-2021: Bệnh tỉnh, tiếp xúc tạm, da niêm mạc hồng, không phù, không đau ngực, tim nhịp đều, khó thở, không ho, phổi thông khí tạm, không rale, đại tiểu tiện thường, bụng mềm gan lách không lớn</span></p><p><span style=\"color: black;\">Mạch: 73 l/p, nhiệt độ : 37,5 độ C, HA: 110/60 mmHg, NT 22l/p , SpO2: 92%</span></p><p><span style=\"color: black;\">Thở HFNC 50/80&nbsp;( sau thở Spo2 96%)</span></p>"
     },
     {
-      "id": 3,
-      "name": "Thiết Bị Điện Tử",
-      "slug": "thiet-bi-dien-tu",
-      "imageLink": "https://cf.shopee.vn/file/978b9e4cb61c611aaaf58664fae133c5_tn"
+      "tthc": {
+        "name": "Test bn 3",
+        "gt": "Nam",
+        "ns": "1987",
+        "dc": "Test địa chỉ",
+        "nnv": "8/7/21",
+        "cc": "170",
+        "cn": "70",
+        "bmi": "22.22"
+      },
+      "id": 3
     },
     {
+      "tthc": {
+        "name": "benh nhan moi",
+        "gt": "nam",
+        "ns": "1987",
+        "dc": "test",
+        "nnv": "2021-12-08T20:20",
+        "cc": "170",
+        "cn": "70",
+        "bmi": "24.22"
+      },
       "id": 4,
-      "name": "Máy tính & Laptop",
-      "slug": "may-tinh-laptop",
-      "imageLink": "https://cf.shopee.vn/file/c3f3edfaa9f6dafc4825b77d8449999d_tn"
-    },
-    {
-      "id": 5,
-      "name": "Máy ảnh - Máy quay phim",
-      "slug": "may-anh-may-quay-phim",
-      "imageLink": "https://cf.shopee.vn/file/ec14dd4fc238e676e43be2a911414d4d_tn"
-    },
-    {
-      "id": 6,
-      "name": "Đồng Hồ",
-      "slug": "dong-ho",
-      "imageLink": "https://cf.shopee.vn/file/86c294aae72ca1db5f541790f7796260_tn"
-    },
-    {
-      "id": 7,
-      "name": "Giày Dép Nam",
-      "slug": "giay-dep-nam",
-      "imageLink": "https://cf.shopee.vn/file/74ca517e1fa74dc4d974e5d03c3139de_tn"
-    },
-    {
-      "id": 8,
-      "name": "Thiết Bị Điện Gia Dụng",
-      "slug": "thiet-bi-dien",
-      "imageLink": "https://cf.shopee.vn/file/7abfbfee3c4844652b4a8245e473d857_tn"
-    },
-    {
-      "id": 9,
-      "name": "Thể Thao & Du Lịch",
-      "slug": "the-thao-du-lich",
-      "imageLink": "https://cf.shopee.vn/file/6cb7e633f8b63757463b676bd19a50e4_tn"
-    },
-    {
-      "id": 10,
-      "name": "Ô tô - xe máy - xe đạp",
-      "slug": "oto-xe-may-xe-dap",
-      "imageLink": "https://cf.shopee.vn/file/3fb459e3449905545701b418e8220334_tn"
-    },
-    {
-      "id": 11,
-      "name": "Thời Trang Nữ",
-      "slug": "thoi-trang-nu",
-      "imageLink": "https://cf.shopee.vn/file/75ea42f9eca124e9cb3cde744c060e4d_tn"
-    },
-    {
-      "id": 12,
-      "name": "Mẹ & Bé",
-      "slug": "me-be",
-      "imageLink": "https://cf.shopee.vn/file/099edde1ab31df35bc255912bab54a5e_tn"
-    },
-    {
-      "id": 13,
-      "name": "Nhà Cửa & Đời Sống",
-      "slug": "nha-cua-doi-song",
-      "imageLink": "https://cf.shopee.vn/file/24b194a695ea59d384768b7b471d563f_tn"
-    },
-    {
-      "id": 14,
-      "name": "Sức Khỏe & Sắc Đẹp",
-      "slug": "suc-khoe-sac-dep",
-      "imageLink": "https://cf.shopee.vn/file/bba68b7dc2d664748dd075d500049d72_tn"
-    },
-    {
-      "id": 15,
-      "name": "Giày Dép Nữ",
-      "slug": "giay-dep-nu",
-      "imageLink": "https://cf.shopee.vn/file/48630b7c76a7b62bc070c9e227097847_tn"
-    },
-    {
-      "id": 16,
-      "name": "Túi Ví",
-      "slug": "tui-vi",
-      "imageLink": "https://cf.shopee.vn/file/fa6ada2555e8e51f369718bbc92ccc52_tn"
-    },
-    {
-      "id": 17,
-      "name": "Phụ Kiện Thời Trang",
-      "slug": "phu-kien-thoi-trang",
-      "imageLink": "https://cf.shopee.vn/file/8e71245b9659ea72c1b4e737be5cf42e_tn"
-    },
-    {
-      "id": 18,
-      "name": "Bách Hoá Online",
-      "slug": "bach-hoa-online",
-      "imageLink": "https://cf.shopee.vn/file/c432168ee788f903f1ea024487f2c889_tn"
-    },
-    {
-      "id": 19,
-      "name": "Voucher & Dịch vụ",
-      "slug": "voucher-dich-vu",
-      "imageLink": "https://cf.shopee.vn/file/b0f78c3136d2d78d49af71dd1c3f38c1_tn"
-    },
-    {
-      "id": 20,
-      "name": "Nhà Sách Online",
-      "slug": "nha-sach-online",
-      "imageLink": "https://cf.shopee.vn/file/36013311815c55d303b0e6c62d6a8139_tn"
-    }
-  ],
-  "products": [
-    {
-      "id": 1,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex ATLBO",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-ATLBO-1",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1,
-        11
+      "ls": "<ul><li><strong style=\"color: black;\">Lúc vào viện: </strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">20h45 ngày 26-7-2021: Bệnh tỉnh, tiếp xúc tạm, da niêm mạc hồng, không phù, không đau ngực, tim nhịp đều, khó thở, không ho, phổi thông khí tạm, không rale, đại tiểu tiện thường, bụng mềm gan lách không lớn</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Mạch: 73 l/p, nhiệt độ : 37,5 độ C, HA: 110/60 mmHg, NT 22l/p , SpO2: 92%</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Thở HFNC 50/80&nbsp;( sau thở Spo2 96%)</span></li><li><strong style=\"color: black;\">27/7/2021:</strong></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bệnh nhân tỉnh tiếp xúc được, da niêm mạc hồng, không xuất huyết tự nhiên, không ho , khó thở hơn, phổi thông khí tạm, không đau ngực, tim nhịp đều, đại tiểu tiện thường, bụng mềm, không chướng</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">M: 80 l/p, T: 37 độ C, NT: 28 l/p, HA: 120/70, sPo2: 89% </span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Thở HFNC 50/100( Sau thở NT 23l/p, Spo2 96%, đỡ khó thở hơn)</span></li><li><span style=\"color: black;\">28/7</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">4h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 90l/p, nhiệt độ 37oC, Spo2 92%, NT 35 l/p, tức ngực, khó thở nhẹ. Bệnh nằm nghiên đầu cao, thở sâu Spo2 97%, NT 27l/p</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">8h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 93l/p, nhiệt độ 37oC, Spo2 96%, NT 35 l/p, đỡ tức ngực, còn khó thở</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">11h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 85l/p, nhiệt độ 37,3oC, Spo2 95%, NT 30 l/p, đỡ tức ngực, còn khó thở nhẹ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">16h: Bệnh tỉnh tiếp xúc được, không sốt, mạch 93l/p, nhiệt độ 37,5oC, Spo2 95%, NT 28 l/p, đỡ tức ngực, còn khó thở nhẹ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">20h: Bệnh nhân đang HFNC 50/60 không cải thiện, Tỉnh mệt, tiếp xúc được chậm, M 100l/p, T 37oC, Spo2 77%, NT 35 l/p, Tức ngực, khó thở, co kéo cơ hô hấp, Hội chẩn tiến hành đặt NKQ, thở máy xâm nhập, CRRT hỗ trợ thuận lợi</span></li><li><span style=\"color: black;\">29/7</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bệnh nhân duy trì an thần dãn cơ, RASS 4đ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Thở máy VCV, FiO2 70%, F18, Vt 450, PEEP 12, I:E 1:3</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">CRRT hỗ trợ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Tim nhịp đều, phổi thông khí, bụng mềm</span></li><li><span style=\"color: black;\">30/7</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bệnh nhân duy trì an thần dãn cơ, RASS 4đ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Thở máy VCV, FiO2 70%, F18, Vt 450, PEEP 12, I:E 1:3</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">CRRT hỗ trợ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Tim nhịp đều</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Phổi thông khí rõ</span></li><li class=\"ql-indent-1\"><span style=\"color: black;\">Bụng mềm</span></li></ul>",
+      "cd": "<p>•<strong style=\"color: black;\">Bệnh chính</strong><span style=\"color: black;\">: Viêm phổi nặng do covid 19</span></p><p>•<strong style=\"color: black;\">Bệnh kèm</strong><span style=\"color: black;\">: Khiếm thị/ Béo phì</span></p><p>•<strong style=\"color: black;\">Biến chứng</strong><span style=\"color: black;\">: Suy hô hấp/ ARDS/ Xuất huyết tiêu hoá</span></p>",
+      "bs": "<p>-</p><p>-<strong style=\"color: black;\">Bệnh sống khỏe ,chỉ Mù .không bệnh gì,17/7 khám sàng lọc,19/7 kết quả covid (+) vaò</strong></p><p>-<strong style=\"color: black;\">Bv hòa vang </strong></p><p>-</p><p>-<strong style=\"color: black;\">20h45 Ngày 26/7/2021: </strong><span style=\"color: black;\">Bệnh viện Hoa Vang chuyển bệnh viện Phổi Đà Nẵng theo dõi tiếp</span></p><p>-</p>",
+      "ts": "<p><img src=\"data:image/png;base64,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AgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAgIBSpKaggQIECAAAECBAgQIECAQEMBoUDDSdUSAQIECBAgQIAAAQIECBCoCAgFKkpqCBAgQIAAAQIECBAgQIBAQwGhQMNJ1RIBAgQIECBAgAABAgQIEKgICAUqSmoIECBAgAABAgQIECBAgEBDAaFAw0nVEgECBAgQIECAAAECBAgQqAj8D8MA34MxpZM4AAAAAElFTkSuQmCC\"></p>",
+      "dt": "<p>•<span style=\"color: black;\">Duy trì an thần dãn cơ</span></p><p>•<span style=\"color: black;\">Thở máy PCV, FiO2 80%, F15, Pi 20, PEEP 13 , I:E 1:3</span></p><p>•<span style=\"color: black;\">Aminosteril 10% x 2 chai/ ngày</span></p><p>•<span style=\"color: black;\">(6) Valbivi 1g x 2 lọ/ ngày</span></p><p>•<span style=\"color: black;\">(6) Cepemid 1g x 4 lọ/ngày</span></p><p>•<span style=\"color: black;\">(8) Galoxcin 750mg x 2 lọ/ngày</span></p><p>•<span style=\"color: black;\">(9) Dexamethazone 3,33 x 2 ống/ ngày</span></p><p>•<span style=\"color: black;\">Pantocid duy trì BTĐ</span></p>",
+      "xq": [
+        {
+          "time": "2021-07-29T06:00",
+          "url": "https://firebasestorage.googleapis.com/v0/b/benh-an-online.appspot.com/o/images%2FPicture3.jpg?alt=media&token=f48bd337-c9f3-4fe9-940d-faaa3f718b19"
+        },
+        {
+          "time": "2021-07-29T18:20",
+          "url": "https://firebasestorage.googleapis.com/v0/b/benh-an-online.appspot.com/o/images%2FPicture4.png?alt=media&token=0e1081a2-b11f-4b17-a7d6-6884fd07ce46"
+        }
       ],
-      "price": 78000,
-      "oldPrice": 150000
+      "cls": {
+        "sinhHieu": [
+          {
+            "mach": "100",
+            "t": "37",
+            "ha": "120/80",
+            "nt": "Thở máy",
+            "spo2": "94%",
+            "time": "29/7 "
+          },
+          {
+            "mach": "231",
+            "t": "321",
+            "ha": "321",
+            "nt": "231",
+            "spo2": "321",
+            "time": "30/7"
+          }
+        ]
+      }
     },
     {
-      "id": 2,
-      "name": "Áo thun nam cổ tròn POLOMAN vải Cotton co giãn,dày dặn, form regular fit thoải mái",
-      "slug": "ao-thun-nam-co-tron-POLOMAN-vai-Cotton-co-gian-day-dan-form-regular-fit-thoai-mai",
-      "imageLink": "https://cf.shopee.vn/file/aed791c1d5e852061b84df75802c42d3_tn",
-      "categories": [
-        1
-      ],
-      "price": 149000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 3,
-      "name": "Áo thun tay lỡ Unisex Yinxx, áo phông form rộng ATL138",
-      "slug": "Ao-thun-tay-lo-Unisex-Yinxx-ao-phong-form-rong-ATL138",
-      "imageLink": "https://cf.shopee.vn/file/199e5c2795dc40b13a12058cca4704a0_tn",
-      "categories": [
-        1,
-        11
-      ],
-      "price": 69000,
-      "oldPrice": 80000
-    },
-    {
-      "id": 4,
-      "name": "Sạc Dự Phòng Romoss Sense 4 10000mah Chính Hãng Check Code - BH 1 năm",
-      "slug": "Sac-Du-Phong-Romoss-Sense-4-10000mah-Chinh-Hang-Check-Code-BH-1-nam",
-      "imageLink": "https://cf.shopee.vn/file/dd200b363e9c48af6697e7abd9d5138c_tn",
-      "categories": [
-        2
-      ],
-      "price": 205000,
-      "oldPrice": 289000
-    },
-    {
-      "id": 5,
-      "name": "Cường Lực Full Màn 10D Tê Giác Loại 1 Chính Hãng",
-      "slug": "Cuong-Luc-Full-Man-10D-Te-Giac-Loai-1-Chinh-Hang",
-      "imageLink": "https://cf.shopee.vn/file/bf8f9ec4c12a727f770ee66856c6fd8a_tn",
-      "categories": [
-        2
-      ],
-      "price": 25000
-    },
-    {
-      "id": 6,
-      "name": "[LOẠI 1] Loa Kéo Karaoke Bluetooth JBZ NE108 Bass 2 Tấc - BH 6 Tháng",
-      "slug": "LOAI-1-Loa-Keo-Karaoke-Bluetooth-JBZ-NE108-Bass-2-Tac-BH-6-Thang",
-      "imageLink": "https://cf.shopee.vn/file/b88fd50ded088571fcc9050997db659c_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 1090000,
-      "oldPrice": 1800000
-    },
-    {
-      "id": 7,
-      "name": "Tai Nghe Nhét Tai Hoco M1 Chính Hãng - Bảo Hành 3 Tháng | Tai Nghe IPhone",
-      "slug": "Tai-Nghe-Nhet-Tai-Hoco-M1-Chinh-Hang-Bao-Hanh-3-Thang-Tai-Nghe-IPhone",
-      "imageLink": "https://cf.shopee.vn/file/737839c37e30e7c74bb6c9ce0f4d4ab6_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 49000,
-      "oldPrice": 70000
-    },
-    {
-      "id": 8,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex ATLBO",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-ATLBO-8",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 9,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex ATLBO",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-ATLBO-9",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 10,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex ATLBO",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-ATLBO-10",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 11,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex ATLBO",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-ATLBO-11",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 12,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex TEST",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-TEST-12",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 13,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex TEST",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-TEST-13",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 14,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex TEST",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-TEST-14",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 15,
-      "name": "Áo thun bò sữa tay lỡ, form rộng Unisex TEST",
-      "slug": "ao-thun-bo-sua-tay-lo-form-rong-unisex-TEST-15",
-      "imageLink": "https://cf.shopee.vn/file/c83764f21a4ffb1e9242ed7188d70f8f_tn",
-      "categories": [
-        1,
-        3
-      ],
-      "price": 78000,
-      "oldPrice": 150000
-    },
-    {
-      "id": 17,
-      "name": "test pipeline salary",
-      "slug": "test-pipeline salary",
-      "imageLink": "https://cf.shopee.vn/file/36013311815c55d303b0e6c62d6a8139_tn",
-      "price": 454554,
-      "categories": [],
-      "oldPrice": 10000
-    },
-    {
-      "id": 18,
-      "name": "test pipeline salary",
-      "slug": "test-pipeline salary",
-      "imageLink": "https://cf.shopee.vn/file/36013311815c55d303b0e6c62d6a8139_tn",
-      "price": 123123,
-      "categories": []
-    },
-    {
-      "id": 19,
-      "name": "test 3",
-      "slug": "test-pipeline salary",
-      "imageLink": "https://cf.shopee.vn/file/36013311815c55d303b0e6c62d6a8139_tn",
-      "price": 12321,
-      "categories": [
-        5
-      ],
-      "oldPrice": 12323
+      "tthc": {
+        "name": "will top",
+        "gt": "nam",
+        "ns": "1987",
+        "dc": "test",
+        "nnv": "2021-06-02T12:00",
+        "cc": "170",
+        "cn": "70",
+        "bmi": "24.22"
+      },
+      "id": 5
     }
   ]
 }
